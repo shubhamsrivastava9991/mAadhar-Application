@@ -1,14 +1,14 @@
 # mAadhar-Application
 
-DESCRIPTION
+<h1>DESCRIPTION</h1>
 
-Problem statement:
+<h2>Problem statement:</h2>
 
 Develop an application to automate the process of applying for an Aadhar Card by making it smoother for Indian citizens.
 
  
 
-Scenario:
+<h2>Scenario:</h2>
 
 Varniraj Service PVT. LTD is closely working with “The Government of India” to help them get a solution for processing applications for Aadhaar Card. Application is intended to register citizens and let them display ID to process their Aadhar Card application.
 
